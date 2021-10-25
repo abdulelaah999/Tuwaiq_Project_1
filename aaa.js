@@ -43,7 +43,10 @@ function hideHandler() {
   mainContainer.hide();
 }
 
+function spliceHandler() {
+  
+  mainContainer.splice();
+}
 
 
 
- 
